@@ -1,0 +1,10 @@
+﻿  Methods.cpp
+D:\Study Projects\Numerical methods\VMLab2\VMLab2\Methods.cpp(63,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study Projects\Numerical methods\VMLab2\VMLab2\Methods.cpp(75,26): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+D:\Study Projects\Numerical methods\VMLab2\VMLab2\Methods.cpp(75,53): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+D:\Study Projects\Numerical methods\VMLab2\VMLab2\Methods.cpp(77,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  MyForm.cpp
+D:\Study Projects\Numerical methods\VMLab2\VMLab2\MyForm.cpp(7,32): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  Methods.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  VMLab2.vcxproj -> D:\Study Projects\Numerical methods\VMLab2\x64\Debug\VMLab2.exe
